@@ -24,7 +24,7 @@ Example:
 ### List of avalable commands:
  - /exchange_rate token period - Procces data in given period and returns graph of given token exchange rate.
  - /tokens  - Lists all avalible tokens
- - /basebtc currency1 to currency2 - Links two currency throught BTC and compares them with exchange rate based on USD.
+ - /basebtc currency1 currency2 - Links two currency throught BTC and compares them with exchange rate based on USD.
  - /corr_matrix - Draws correlation matrix of all available curencies
 
 ## User tips and shortcuts
