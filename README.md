@@ -42,9 +42,9 @@ Token argument can also be specified as correspondent number in list.
   ```
   Available tokens 
 --------------------
-1  -  BTC/USD
-2  -  ETH/USD
-3  -  LTC/USD
+1  -  BTC
+2  -  ETH
+3  -  LTC
   ```
 2. Now we can execute command /exchange_rate using following syntaxes
 ```
