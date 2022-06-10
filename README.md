@@ -26,6 +26,7 @@ Example:
  - /tokens  - Lists all avalible tokens
  - /basebtc currency1 currency2 - Links two currency throught BTC and compares them with exchange rate based on USD.
  - /corr_matrix - Draws correlation matrix of all available curencies
+ - /acorr_plot token period - Procces data in given period and returns graph of given token autocorrelation. (alpha = 0.95, lag = 10).
 
 ## User tips and shortcuts
 #### 1) Token shortcut
@@ -56,4 +57,5 @@ Token argument can also be specified as correspondent number in list.
 ```
 /exchange_rate BTC 1Y -> /exchange_rate BTC
 ```
+ 
  
